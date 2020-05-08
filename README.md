@@ -1,2 +1,2 @@
-# WS-CV2
-Using webstorm to create a project
+# WS-Angela-Basic
+Basic HTML, css and js warming-up playground.
